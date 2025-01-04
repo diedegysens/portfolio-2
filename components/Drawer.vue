@@ -12,7 +12,7 @@
 
   <el-drawer
     v-model="drawer"
-    :size="'40%'"
+    :size="'35%'"
     :direction="direction"
     :custom-class="'fixed-drawer'"
   >
@@ -26,10 +26,24 @@
       </div>
 
       <!-- Footer is placed at the bottom of the drawer -->
+      <div>
+    <strong>contact me: </strong>
+    <span>diede.gysens@student.luca-arts.be
+    </span>
+  </div>
+
+  
       <div class="mt-auto footer">
         <Footer />
         <UtilNav />
       </div>
+
+      <div class="flex items-center">
+
+</div>
+
+
+
     </div>
   </el-drawer>
 </template>

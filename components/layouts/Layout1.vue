@@ -10,7 +10,7 @@
 
         <ContentRenderer :value="data" />
 
-        <div v-if="data.imagegallery && data.imagegallery.showgallery == true" class="pt-10 pb-20">
+        <div v-if="data.imagegallery && data.imagegallery.showgallery == true" class="pt-10 pb-20" >
             <ImageGallery />
         </div>
 

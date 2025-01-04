@@ -1,7 +1,7 @@
 ---
 thumbnail: /img/michael-bierut-decode-la-puissance-des-logos-1002x1002.jpg
 date: 2024-11-15T21:56:56.704Z
-layout: layout2
+layout: layout1
 mainincluded: true
 title: typography
 imagegallery:
@@ -27,6 +27,11 @@ description: "The typography assignment was to make text (in combination with
   one with only the focus on typography and one with the combination of
   photography and image."
 ---
+
+::div{.poppins-light}
+
 When I compare my final result with week 1, I see a huge difference. My designs from the first week did not focus on the essence at all and were too complex. I learned that simplicity and essence are much more attractive than all kinds of unnecessary, added things.
 
 It was an assignment that I liked working on and wanted to keep working on. That is why I also liked to stick my posters on the wooden planks as an extra touch.
+
+::

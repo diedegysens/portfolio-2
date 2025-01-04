@@ -2,7 +2,12 @@
     <div class="opacity-80 animate-fade animate-once animate-delay-[100ms]">
       <div
       class="text-4xl font-black">
-      {{ settings.site_title }}</div>
+
+<NuxtLink to="/"> 
+  {{ settings.site_title }}
+  </NuxtLink>
+
+  </div>
       <div class="text-sm opacity-80">
       {{ settings.site_subtitle }}
       </div>
