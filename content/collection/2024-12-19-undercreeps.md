@@ -17,7 +17,7 @@ imagegallery:
     - /img/img_2601-groot.jpeg
 thumbnail: /img/rp-p-ob-6876.jpg
 date: 2024-12-19T15:58:29.390Z
-layout: layout5
+layout: layout3
 description: For the assignment of undercreeps, the intention is to create a
   visitors' catalogue for the exhibition 'undercreeps, small animals in art and
   science'.

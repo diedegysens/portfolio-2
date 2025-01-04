@@ -1,12 +1,12 @@
 ---
 thumbnail: /img/michael-bierut-decode-la-puissance-des-logos-1002x1002.jpg
 date: 2024-11-15T21:56:56.704Z
-layout: layout1
+layout: layout4
 mainincluded: true
 title: typography
 imagegallery:
   showgallery: true
-  carouselgrid: carousel
+  carouselgrid: grid
   galleryImages:
     - /img/7ed14ed9-9c9f-4bcf-9f41-fb77fe65fdf2-kopie.jpg
     - /img/fbda7eb5-d721-41ae-855f-5994ef822566-kopie.jpg
@@ -19,7 +19,7 @@ imagegallery:
 tags:
   - Tag 1
 collectionincluded: true
-numbernavigation: 10
+numbernavigation: 0
 description: "The typography assignment was to make text (in combination with
   image) as attractive and readable as possible, in function of a certain
   medium. The four media we have to work on are: a book spread, poster,

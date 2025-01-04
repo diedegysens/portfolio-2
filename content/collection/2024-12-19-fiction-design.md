@@ -11,6 +11,7 @@ layout: layout1
 
 ::div{.poppins-light}
 
+
 For the assignment on fiction design we had to look for a problem statement on time. My statement was: How can I make time go faster, when you are waiting for your food in the microwave. After the brainstorm I decided to go further into the idea of ​​the hypnosis microwave.
 
 ::
