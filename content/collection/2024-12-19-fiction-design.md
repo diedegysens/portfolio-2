@@ -1,5 +1,5 @@
 ---
-title: fiction design
+title: Fiction design
 imagegallery:
   showgallery: true
   carouselgrid: grid
@@ -8,10 +8,18 @@ imagegallery:
 date: 2024-12-19T16:30:35.285Z
 layout: layout1
 ---
+::div{.test .poppins-light}
+For the assignment on fiction design we had to look for a problem statement on time. My statement was: 
 
-::div{.poppins-light}
+::
 
+::div{.test .poppins-bold}
 
-For the assignment on fiction design we had to look for a problem statement on time. My statement was: How can I make time go faster, when you are waiting for your food in the microwave. After the brainstorm I decided to go further into the idea of ​​the hypnosis microwave.
+**How can I make time go faster, when you are waiting for your food in the microwave?** 
 
+::
+
+::div{.test .poppins-light}
+
+After the brainstorm I decided to go further into the idea of ​​the hypnosis microwave.
 ::

@@ -18,6 +18,7 @@
 .poppins-light {
   font-family: "Poppins", serif;
   font-weight: 300;
+  font-size: 12pt;
   font-style: normal;
 }
 
@@ -42,12 +43,14 @@
 .poppins-bold {
   font-family: "Poppins", serif;
   font-weight: 700;
+  font-size: 14pt;
   font-style: normal;
 }
 
 .poppins-extrabold {
   font-family: "Poppins", serif;
   font-weight: 800;
+  font-size: 14pt;
   font-style: normal;
 }
 
@@ -215,3 +218,5 @@
     font-style: normal;
     line-height: normal;
   }
+
+  
